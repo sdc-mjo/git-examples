@@ -2,3 +2,4 @@ hello world
 hallo welt
 dirty
 another line
+a conflict
