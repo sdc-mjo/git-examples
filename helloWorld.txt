@@ -3,6 +3,7 @@ hallo welt
 dirty
 another line
 a conflict
+a new line
 
 
 No TV and No Beer make Homer dull
