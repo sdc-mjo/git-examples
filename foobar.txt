@@ -1,4 +1,5 @@
 Foo
 Bar
-test
-test2
+changed
+2 
+lines
