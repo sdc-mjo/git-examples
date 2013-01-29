@@ -1,4 +1,5 @@
 hello world
+an merge example
 
 No TV and No Beer make Homer dull
 No TV and No Beer make Homer dull
